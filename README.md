@@ -1,2 +1,0 @@
-# pos-ai-architecture
-Public
